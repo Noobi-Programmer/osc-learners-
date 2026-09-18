@@ -55,7 +55,7 @@ Need help with Git commands or fixing your Pull Request?
 *Made with passion by the Open Source Club maintainers & awesome student contributors.*
 
 
-##  Name & Roll No
+##  Name, Roll No & Achievements
 **Name:** Abinivesh S
 **Roll No:** 26BCS10396
 **Achievement:** 
