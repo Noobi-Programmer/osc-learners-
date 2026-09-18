@@ -57,9 +57,13 @@ Need help with Git commands or fixing your Pull Request?
 
 ##  Name, Roll No & Achievements
 **Name:** Abinivesh S
+
 **Roll No:** 26BCS10396
+
 **Achievement:** 
+
 1)Made an WebApp --> **IdeaForge**
+
 Became finalists in USAII Global Hackathon {UG track}
 
 2) Started a few OS projects
