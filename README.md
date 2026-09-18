@@ -62,7 +62,7 @@ Need help with Git commands or fixing your Pull Request?
 
 **Achievement:** 
 
-1)Made an WebApp --> **IdeaForge**
+1) Made an WebApp --> **IdeaForge**
 
 Became finalists in USAII Global Hackathon {UG track}
 
